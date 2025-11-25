@@ -1,0 +1,5 @@
+{
+  "name": "Copy of Gemini Xiangqi Master",
+  "description": "A refined Chinese Chess (Xiangqi) application featuring local multiplayer and an intelligent AI opponent powered by Google Gemini 2.5.",
+  "requestFramePermissions": []
+}
